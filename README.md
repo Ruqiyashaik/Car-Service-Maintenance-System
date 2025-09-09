@@ -7,6 +7,7 @@ It allows users to book car services online, manage their service requests, and 
 This project is designed to digitize and simplify car service booking for users while providing an easy-to-use dashboard for administrators.
 
 ✨ Features
+
 🔹 User Features
 
 User Registration & Login with secure authentication.
