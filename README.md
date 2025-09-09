@@ -5,6 +5,7 @@ It allows users to book car services online, manage their service requests, and 
 This project is designed to digitize and simplify car service booking for users while providing an easy-to-use dashboard for administrators.
 
  Features
+ 
 🔹 User Features
 
 User Registration & Login with secure authentication.
@@ -29,7 +30,7 @@ Delete service records if required.
 
 Manage users and services efficiently.
 
-🛠️ Technologies Used
+Technologies Used
 
 Frontend: HTML, CSS, JavaScript
 
@@ -39,7 +40,7 @@ Database: MySQL
 
 Server: XAMPP (Apache + MySQL)
 
-🗄️ Database Design
+ Database Design
 
 The project uses 3 main tables:
 
